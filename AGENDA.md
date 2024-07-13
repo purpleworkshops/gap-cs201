@@ -14,7 +14,7 @@
     - Insert some new data
     - Sort the data
 
-## 1pm - 2pm 
+## 2pm - 3pm 
 
 3. Classic Data Structures and Algorithms
   - Linked List structure: good for simple things, easy to read, write; tough to sort
