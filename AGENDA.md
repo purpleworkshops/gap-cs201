@@ -38,6 +38,12 @@
     - Djikstra (shortest path), Traveling Saleseman, Breadth-First, Depth-First, 
     - Huffman Compression, Flood Fill
 
+6. The Best Parts of Computer Science
+
+## 4pm - 5pm
+
+Open office hours / Q&A 
+
 
   
 
