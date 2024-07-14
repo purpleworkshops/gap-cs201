@@ -5,6 +5,9 @@ require "minitest/autorun"
 # 3. If you must loop, you can use while..., but not .each, etc.
 
 # Make this code work (feel free to adapt/change):
+
+A -> B -> C -> D -> E -> null
+
 class Node
   attr_accessor :data, :next
 end
